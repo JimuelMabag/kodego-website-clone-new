@@ -1,0 +1,10 @@
+.hero {
+    border: 1px solid black;
+
+    &__image-container {
+    }
+    
+    &__image {
+        width: 100%;
+    }
+}
